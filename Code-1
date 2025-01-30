@@ -1,6 +1,6 @@
-# Function for addition
-def add(a, b):
-    return a + b
+# Function for addition 
+def add(a, b, c, d):
+    return a + b + c + d
 
 # Function for multiplication 
 def multiply(a, b, c):
