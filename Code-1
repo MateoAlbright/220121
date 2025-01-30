@@ -2,7 +2,9 @@
 def add(a, b, c, d):
     return a + b + c + d
 
-#### Please add the subtraction function
+# Function for subtraction
+def subtract(a, b):
+    return a - b
 
 # Function for multiplication 
 def multiply(a, b, c):
@@ -23,5 +25,6 @@ num3 = float(input("Enter the second number: "))
 
 print("\nResults:")
 print(f"Addition: {add(num1, num2, num3, num4)}")
+print(f"Subtraction: {subtract(num1, num2)}")
 print(f"Multiplication: {multiply(num1, num2, num3)}")
 print(f"Division: {divide(num1, num2)}")
