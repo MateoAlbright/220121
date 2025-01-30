@@ -2,9 +2,12 @@
 def add(a, b, c, d):
     return a + b + c + d
 
+#### Please add the subtraction function
+
 # Function for multiplication 
 def multiply(a, b, c):
     return a * b * c 
+
 # Function for division
 def divide(a, b):
     if b != 0:
