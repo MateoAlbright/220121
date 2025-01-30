@@ -4,8 +4,7 @@ def add(a, b, c, d):
 
 # Function for multiplication 
 def multiply(a, b, c):
-    return a * b * c
-# please check the division function 
+    return a * b * c 
 # Function for division
 def divide(a, b):
     if b != 0:
