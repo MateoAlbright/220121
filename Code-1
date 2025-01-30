@@ -2,11 +2,11 @@
 def add(a, b):
     return a + b
 
-# Function for subtraction
+# Function for subtraction #### correct this part (please remove this part)
 def subtract(a, b):
     return a - b
 
-# Function for multiplication #### correct this part (please add one value)
+# Function for multiplication 
 def multiply(a, b, c):
     return a * b * c
 
